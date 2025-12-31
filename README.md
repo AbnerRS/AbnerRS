@@ -1,18 +1,13 @@
 ### Olá, eu sou o Abner Rodrigues 👋
 
 <!-- Short Bio based on Portfolio -->
-> Senior Software Engineer na CI&T | Especialista em Front-end, React, TypeScript e Micro-frontends.
+> Senior Software Engineer | Especialista em Front-end, React, TypeScript e Micro-frontends.
 
 <div>
   <!-- Portfolio Link Badge -->
   <a href="https://github.com/AbnerRS/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-V1-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerRS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRS&layout=compact&langs-count=16&theme=dracula"/>
 </div>
 
 ## 🛠️ Tech Stack
